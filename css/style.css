@@ -1,0 +1,63 @@
+.tam-button {
+	height: 3em;
+	width: 3em;
+}
+
+.apagar-button {
+	height: 3em;
+	width: 6.5em;
+}
+
+.espacamento {
+	line-height: 30px !important;
+}
+
+footer {
+	min-height: 180px;
+	padding: 40px;
+}
+
+nav { 
+	min-height: 90px; 
+	margin-bottom: 0 !important; 
+}
+
+.cor-primaria {
+	background: #45ada6;
+}
+
+.fonte-logo {
+	font-family: candara;
+}
+
+.tamanho-icons {
+	font-size: 24px;
+}
+
+.italico {
+	font-style: italic;
+}
+
+.tam-card {
+	height: 30em;
+	width: 50em;
+	top: 7em;
+}
+
+.cor-fundo-menu:hover { background: #16d9d2 }
+
+.tam-calculadora {
+	width: 32em;
+}
+
+.cor-calc { background: #45ada6; }
+
+.botao-igual {
+	height: 3em;
+	width: 13.3em;
+}
+
+.resultado-calculadora {
+	height: 5em;
+	width: 21em;
+}
