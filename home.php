@@ -2,7 +2,7 @@
 	<div class="card mb-3 shadow m-0 border-0 tam-card">
 		<div class="row no-gutters">
 			<div class="col-md-6">
-				<img src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" class="card-img" style="height: 29.9em;">
+				<img src="./img/foto-card.jpg" class="card-img rounded-0" style="height: 29.9em;">
 			</div>
 			<div class="col-md-6 p-0">
 				<div class="card-body">
@@ -32,7 +32,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="card-footer cor-primaria" style="background: #4154ab">
+		<div class="card-footer cor-primaria" style="background: #34337a">
 			<div class="container d-flex justify-content-center">
 				<a class="m-1 text-white  tamanho-icons fab fa-linkedin text-white text-decoration-none" href="https://www.linkedin.com/in/daniel-melonari-5413a7197/" target="_blank"></a>
 				<a class="m-1 text-white tamanho-icons fab fa-docker text-white text-decoration-none" href="https://hub.docker.com/u/danielm1999" target="_blank"></a>

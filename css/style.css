@@ -23,7 +23,7 @@ nav {
 }
 
 .cor-primaria {
-	background: #45ada6;
+	background: #123c47;
 }
 
 .fonte-logo {
@@ -44,13 +44,13 @@ nav {
 	top: 7em;
 }
 
-.cor-fundo-menu:hover { background: #16d9d2 }
+.cor-fundo-menu:hover { background: #237a91 }
 
 .tam-calculadora {
 	width: 32em;
 }
 
-.cor-calc { background: #45ada6; }
+.cor-calc { background: #123c47; }
 
 .botao-igual {
 	height: 3em;

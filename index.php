@@ -13,10 +13,9 @@ switch ($pagina) {
 		include 'calculadora.php';
 		break;
 
-	default:
-		include 'home.php';
+	default: 
+		include 'home.php';	
 		break;
 }
 
 include 'footer.php';
-	
