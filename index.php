@@ -14,8 +14,7 @@ switch ($pagina) {
 		break;
 
 	default: 
-		include 'home.php';	
+		include 'home.php';
+		include 'footer.php';	
 		break;
 }
-
-include 'footer.php';
