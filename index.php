@@ -11,6 +11,7 @@ include 'header.php';
 switch ($pagina) {	
 	case 'calculadora':
 		include 'calculadora.php';
+		include 'footer2.php';
 		break;
 
 	default: 
