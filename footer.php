@@ -1,6 +1,6 @@
 <br>
 <br>
-<footer class="cor-primaria">
+<footer class="fixed-bottom cor-primaria">
 
 </footer>
 </body>
