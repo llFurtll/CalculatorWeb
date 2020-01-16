@@ -1,5 +1,5 @@
 <div class="container d-flex justify-content-center p-0">
-	<div class="card mb-3 shadow m-0 border-0 tam-card">
+	<div class="card mb-3 shadow m-0 border-0 tam-card" style="z-index: 9999">
 		<div class="row no-gutters">
 			<div class="col-md-6">
 				<img src="./img/foto-card.jpg" class="card-img rounded-0" style="height: 29.9em;">
